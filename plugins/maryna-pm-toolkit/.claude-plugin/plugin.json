@@ -1,0 +1,9 @@
+{
+  "name": "maryna-pm-toolkit",
+  "version": "1.0.0",
+  "description": "PM decision-making toolkit: multi-expert decision review and idea stress-test powered by parallel subagents",
+  "author": {
+    "name": "MarishkaSa-PM"
+  },
+  "keywords": ["project-management", "decision-making", "subagents", "risk"]
+}
