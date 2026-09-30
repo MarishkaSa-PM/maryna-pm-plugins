@@ -1,6 +1,6 @@
 ---
 name: idea-stress-test
-description: Stress-tests an idea, feature or initiative with an Advocate vs. Prosecutor debate run as two parallel subagents, followed by a Judge who delivers a verdict. Use when the user wants an honest, non-sycophantic assessment of an idea before investing in it - e.g. a new feature, a pet project, a process change, a pivot, a proposal to a client. Triggers include "stress-test this idea", "devil's advocate", "poke holes in this", "is this idea worth it", "адвокат і прокурор", "розбий цю ідею", "перевір ідею на міцність", "адвокат и прокурор", "разнеси идею", "стоит ли делать".
+description: Stress-tests an idea, feature or initiative - an Advocate and a Prosecutor argue in parallel as subagents, then a Judge delivers a verdict, the cheapest validation test and kill criteria. Use ONLY when the user explicitly asks to stress-test an idea - e.g. "проверь идею на прочность", "стресс-тест идеи", "перевір ідею на міцність", "стрес-тест ідеї", "stress-test this idea", "devil's advocate". Do NOT use for general questions like "что думаешь" or "стоит ли" without an explicit stress-test request.
 ---
 
 # Idea Stress Test - Advocate, Prosecutor, Judge

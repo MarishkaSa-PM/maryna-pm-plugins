@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "PM skills and plugins for Claude",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "maryna-pm-toolkit",
       "source": "./plugins/maryna-pm-toolkit",
       "description": "PM decision-making toolkit: multi-expert decision review and idea stress-test powered by parallel subagents",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "productivity"
     }
   ]
